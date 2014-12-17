@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/nicolasritouet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nicolas.ritouet.com
+  * I am nicolasritouet (https://keybase.io/nicolasritouet) on keybase.
+  * I have a public key with fingerprint A3A7 2BD3 4C6B 1534 106D  F86B 634F A803 AD74 62F1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a3a72bd34c6b1534106df86b634fa803ad7462f1",
+            "host": "keybase.io",
+            "key_id": "634fa803ad7462f1",
+            "uid": "5b290185337ac7f243cb1d78b5fdb400",
+            "username": "nicolasritouet"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5a2984121eb6301091e9984f70e3cedc95483aa5e8ebec82912abc6078944b4d0f"
+            ]
+        },
+        "service": {
+            "hostname": "nicolas.ritouet.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416939457,
+    "expire_in": 157680000,
+    "prev": "4410e5005815c83c1e7ef5764a85c31e4af4eba464a0d2490d10fd096d6a5ac3",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMIrAnicbVJbSFRBGF63Ml0qkh6ifIim0qJFZs6Zc1tDkqSoCAKlIjOZmTNHT2t7
+1rNHs8QuCBKGQVcjCiorfSqESLpAakmFxPaiFdnNgkoSgi6bKNQcsYegeRnm+7//
++7//n//B7GmBUNrSC/Urzg3eLEzr79leEyjxHvbUA+qYe0GkHkT55GXZsQruxl07
+5oEIIDLRJGrKmKkUKTJGUDUtXaWqjC2iQ5mYGlYlC4EwqHQSfoaQoSTB82xHYOJR
+bpsC/Q+/ZjKgUMmASFdkWSNMsyQsM4pMTaeKZVIMoU9McDdGdnPBjtnMqSIJ1/ac
+Gu6BhjBwea0T5b7xhF0haiVApBQoRDJ0jCTEhVGIoIG4IQBLg1xm3GSGgnWZEIXr
+nHKmSwaSCGUq1HQDY4pNaIEyoS3q1tpsUtxv7l8PeVMm8pizW5iMu47niIAgVHpe
+POJ78/bG/YQ9nJZPSZVTO2aKAYuEWu4mbCcGIkgwmWf72ggj1ZANrGhhwOvitsvL
+bZ+haKoOxfHL8FohicVHcAVCRUcK02WGuMYtwcJEV5iMOCYW5pRgAUBTwgY0EbRM
+aKimShTCZOA3Vx1zQEQXNkmFkBTjixGvxuWgobd7x/RAWiiQPiPor0gglDn37+L0
+dWQEBq3FwVXJd1txVSMrGkndu/J+SJZWHg+0rqlLvfoU7jmcOXyj48vT5LKq0MSJ
+nNOD15bPDI5VLhxKVeSfndd/9+jGz2/6M/Zdu55sPv26bbi5+Pyx5M/e3Lzkb4lG
+hy90xhvOdGX3lY0taKorWLRpzdeR4tyW5wcfvW3qPPJyPPWuaGcDvR/Mev9sgyq1
+ut3rc8JV1fXrPjYuuQRGu8qWXJ5/4NjxF9HHs+5cbS/MzVLO5jdeTPvV17yttLWl
+7NIHOvBk45uCddsyAwNtT7es35x+Ei47Ojprzv5TD8cPTnxn+9ZKbcE5hQwW3x7/
+dmd1Zyic/+OAc+/LodGckvZdCzdk3xoo+QPMzTax
+=zvG5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicolasritouet
+
+==================================================================
