@@ -1,13 +1,31 @@
-body {
-  background-color: #F6F6F6;
+
+html {
+  background: url('../img/bg-mountains.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
+
 h1 {
   font-family: 'Arvo', Arial, serif;
   font-weight: 400;
-  color: #3C5F89;
+  color: #032749;
 }
+
 h4 {
   font-family: 'Arvo', Arial, serif;
   font-weight: 400;
-  color: #3C5F89;
+  color: #032749;
+}
+
+
+div.container {
+    width:100%;
+    padding: 30px 30px 30px 30px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    position: absolute;
+    top:50%;
+    left:50%;
 }
